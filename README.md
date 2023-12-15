@@ -5,7 +5,7 @@ Project 2 (CourseList)
 
 Questions & Answers
 
-What was the problem you were solving in the projects for this course?
+What was the problem you were solving in the projects for this course?</br>
 The problem was about to show the subjects with all the list of all the pre req of the subject.
 
 How did you approach the problem? Consider why data structures are important to understand.
